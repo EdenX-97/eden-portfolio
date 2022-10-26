@@ -1,0 +1,7 @@
+{
+  "name": "react-resume",
+  "short_name": "react-resume",
+  "theme_color": "#515455",
+  "background_color": "#515455",
+  "display": "standalone"
+}
