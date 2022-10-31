@@ -114,7 +114,7 @@ export const aboutData: About = {
     },
     {
       label: "Employment",
-      text: "Looking for job",
+      text: "Flash Hero Pty Ltd",
       Icon: OfficeBuildingIcon,
     },
   ],
@@ -145,7 +145,6 @@ export const skills: SkillGroup[] = [
       { name: "DynamoDB" },
       { name: "MongoDB" },
       { name: "Redis" },
-      { name: "DynamoDB" },
     ],
   },
   {
@@ -209,6 +208,17 @@ export const education: TimelineItem[] = [
       </p>
     ),
   },
+  // {
+  //   date: "JUN 2015 - SEP 2019",
+  //   location: "The University of Sydney",
+  //   title: "Master in Information Technology",
+  //   content: (
+  //     <p>
+  //       Learned about web full stack programming, machine learning, data
+  //       visualization, data structure and algorithm project management, etc.
+  //     </p>
+  //   ),
+  // },
 ];
 
 export const experience: TimelineItem[] = [
