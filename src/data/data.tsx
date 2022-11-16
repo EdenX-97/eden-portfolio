@@ -245,7 +245,7 @@ export const experience: TimelineItem[] = [
         project. Including full-featured back-end interfaces and a front-end
         website.
         <br />
-        Techs: SpringBoot, Vue, Java, JavaScript, Git, Element UI
+        Techs: SpringBoot, Vue, Java, JavaScript, Git, Element UI, MongoDB, Redis
       </p>
     ),
   },
