@@ -141,11 +141,7 @@ export const skills: SkillGroup[] = [
   },
   {
     name: "Database development",
-    skills: [
-      { name: "DynamoDB" },
-      { name: "MongoDB" },
-      { name: "Redis" },
-    ],
+    skills: [{ name: "DynamoDB" }, { name: "MongoDB" }, { name: "Redis" }],
   },
   {
     name: "Other skills",
@@ -223,7 +219,7 @@ export const education: TimelineItem[] = [
 
 export const experience: TimelineItem[] = [
   {
-    date: "AUG 2022 - Now",
+    date: "AUG 2022 - NOV 2022",
     location: "Flash Hero Pty Ltd",
     title: "Software Engineer - Internship",
     content: (
@@ -245,7 +241,8 @@ export const experience: TimelineItem[] = [
         project. Including full-featured back-end interfaces and a front-end
         website.
         <br />
-        Techs: SpringBoot, Vue, Java, JavaScript, Git, Element UI, MongoDB, Redis
+        Techs: SpringBoot, Vue, Java, JavaScript, Git, Element UI, MongoDB,
+        Redis
       </p>
     ),
   },
@@ -258,16 +255,16 @@ export const testimonial: TestimonialSection = {
   imageSrc: testimonialImage,
   testimonials: [
     {
-      name: "Someone else",
-      text: "Add several of these, and keep them as fresh as possible, but be sure to focus on quality testimonials with strong highlights of your skills/work ethic.",
+      name: "Chenxi Guo",
+      text: "I strongly believe that his technical skills, enthusiasm, and commitment can get started in a wide range of roles despite being at the early stage of his career.",
     },
     {
-      name: "Someone else",
-      text: "Add several of these, and keep them as fresh as possible, but be sure to focus on quality testimonials with strong highlights of your skills/work ethic.",
+      name: "Amanda Chen",
+      text: "In my experience, Mo Xu has consistently demonstrated his ability to produce high-quality code and solve complex problems with innovative solutions. He is highly skilled in full-stack web development and is always willing to take on new challenges and learn new technologies.",
     },
     {
-      name: "Someone else",
-      text: "Add several of these, and keep them as fresh as possible, but be sure to focus on quality testimonials with strong highlights of your skills/work ethic.",
+      name: "Bruce Yu",
+      text: "I have had the privilege of working alongside Mo Xu as the co-founder of Shenzhen Xindun Electronic Commerce and have consistently been impressed by his exceptional technical skills and ability to solve complex problems. Mo Xu is highly skilled in software engineering and has a strong understanding of Frontend, Backend and CI/CD.",
     },
   ],
 };
